@@ -2,8 +2,8 @@ title: "Maryam's Demo Site"
 author:
   name: Maryam
   email: your-email@domain.com
-description: >
-Maryam's demo site. 
+description: 
+<Maryam's demo site>
 
 minima:
   date_format: "%b %-d, %Y"
